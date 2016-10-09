@@ -1,0 +1,45 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,bg2_jpg,001_png,002_jpg,snow_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/bg2.jpg"
+		},
+		{
+			"name": "001_png",
+			"type": "image",
+			"url": "assets/001.png"
+		},
+		{
+			"name": "002_jpg",
+			"type": "image",
+			"url": "assets/002.jpg"
+		},
+		{
+			"name": "snow_png",
+			"type": "image",
+			"url": "assets/snow.png"
+		}
+	]
+}
